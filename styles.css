@@ -1,6 +1,7 @@
 html {
     display: flexbox;
     margin-left: 30%;
+    margin-bottom: 200px;
 }
 
 .navbar{
@@ -50,12 +51,14 @@ h3 {
     margin-top: 0;
 }
 .box1 {
-    width: 500px;
+    width: 370px;
     border: 2px solid black;
     padding: 10px;
     margin: 3px;
-    height: 425px;
+    height: 370px;
     margin-top:20px;
+    margin-left: 20px;
+
 }
 
 
@@ -116,3 +119,71 @@ img {
     margin-top: 40px;
 
 }
+
+.source{
+    font-weight: lighter;
+    margin-left: 90px;
+    
+}
+
+.future-1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+}
+
+.future-2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+}
+
+.quantum-circuit {
+    margin-top: 60px;
+    width: 400px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.methods-title {
+    margin-top: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+.research-image {
+    width: 300px;
+    height: 691px;
+}
+
+.research-paper-explanation {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+    font-size: medium;
+    width: 500px;
+}
+
+.quantum-circuit-explanation {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+    font-size: medium;
+    width: 500px;
+    margin-bottom: 100px;
+
+}
+
+.swap-matrix-img {
+    width: 400px;
+    height: 100px;
+}
+
+.quantum-blur-title {
+    margin-bottom: 0px;
+}
+.quantum-blur {
+    margin-top: 0;
+    width: 300px;
+    height: 691px;
+}
+
