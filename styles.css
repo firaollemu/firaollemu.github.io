@@ -3,12 +3,29 @@ html {
     margin-left: 30%;
 }
 
+.navbar{
+    margin-top: 20px;
+    
+}
+a {
+    padding: 30px;
+    margin-top: 20px;
+    color:#262666;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+
 h2{
     font-family: 'Courier New', Courier, monospace;
     margin-top: 20px;
-    position: absolute;
-
+    margin-bottom: 7px;
+    
 }
+
+h3 {
+    margin-top: 30px;
+}
+
 
 .titles {
     margin-top: 20px;
@@ -76,5 +93,22 @@ img {
 
 .dot {
     font-weight: bolder;
+
+}
+
+.first-title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 0;
+}
+.second-title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 30px;
+}
+
+.symphony {
+    width: 55%;
+    height: 50%;
+    margin-left: -20px;
+    margin-top: 40px;
 
 }
