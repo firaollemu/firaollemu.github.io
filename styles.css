@@ -13,6 +13,7 @@ a {
     color:#262666;
     text-decoration: none;
     font-family: 'Courier New', Courier, monospace;
+    margin-left: 40px;
 }
 
 h2{
@@ -41,10 +42,13 @@ h3 {
 }
 
 .second-audio {
-    padding-top: 20px;  
+    padding-top: 0px;  
     height: 25px; 
 }
 
+.second-audio-div {
+    margin-top: 0;
+}
 .box1 {
     width: 500px;
     border: 2px solid black;
